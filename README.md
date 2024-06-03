@@ -1,8 +1,9 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Valeria! Welcome to my GitHub CV</h1> 
+
+<h3 align="center">Previously a Nanny. Now a Software Engineer. </h3>
+
 
 <!--
-**ValeSer/ValeSer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
