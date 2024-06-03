@@ -11,10 +11,9 @@ For the past 5 years, I've pursued courses and immersive experiences:
 - Attended a 16-week Software Development Bootcamp at **Makers Academy**.
 - Led an 8-member team in a 6-week program during **Chingu Voyage 46**, where I honed my technical and leadership skills.
 - Worked on personal projects, which can be found in more detail by reading my [CV](https://github.com/ValeSer/CV).
+-------
 
 <h3 align="center">Languages and Tools</h3>
-
-
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-React-58D2F0?style=for-the-badge&logo=react&logoColor=58D2F0&labelColor=282828"> 
@@ -37,6 +36,8 @@ For the past 5 years, I've pursued courses and immersive experiences:
   <img src="https://img.shields.io/badge/-Jest-B84D6F?style=for-the-badge&logo=jest&logoColor=B84D6F&labelColor=282828">
   <img src="https://img.shields.io/badge/-RSpec-F05892?style=for-the-badge&logo=ruby&logoColor=F05892&labelColor=282828">
 </p>
+
+---
 
 <h3 align="center">Projects</h3>
 
