@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm Valeria! Welcome to my GitHub CV</h1> 
+<h1 align="center"> 👋 Hi, I'm Valeria! Welcome to my GitHub 🌻</h1> 
 
-<h3 align="center">Previously a Nanny. Now a Software Engineer. </h3>
+<h3 align="center">✨ Previously a Nanny. Now a Software Engineer.✨  </h3>
 
 If you are wondering why I decided to switch careers from working with lovely kids to working with coding... I will tell you in a second!
 
 With a background in hospitality and childcare, my journey into coding started as a curiosity nurtured by friends and family.
-</br> **2019** was a special year for me: I found out I was expecting my amazing son, and having helped unblock some software developer friends during our hangouts, I felt my journey into software development had to **begin**!
+</br>✨**2019**✨ was a special year for me: I found out I was expecting my amazing son, and having helped unblock some software developer friends during our hangouts, I felt my journey into software development had to **begin**!
 For the past 5 years, I've pursued courses and immersive experiences:
  - Complemented my practical experience with **Codecademy certifications** in CSS, Ruby, JavaScript, Git, GitHub, and Command Line, underscoring my commitment to continuous learning and professional development.
 - Attended a 16-week Software Development Bootcamp at **Makers Academy**.
@@ -43,6 +43,7 @@ For the past 5 years, I've pursued courses and immersive experiences:
 
 | Name                         | Description | Tech/tools |
 | ---------------------------- | ------------ | ------------------------------------- |
+| Craft-Purse <br> (🛠️ Work In Progress)| A web app that serves as a comprehensive database for storing information about various crafting materials [link here](https://craft-purse-ts-app.vercel.app/)  | ReactJS, Typescript, MongoDB, NodeJS, CSS, ExpressJS. |
 | My Portfolio | A React application containing some of my projects [link here](https://valeria-serci-portfolio.netlify.app)  | ReactJS, JavaScript, HTML, SCSS |
 | Yahtzee game | An adaptation of the classic dice game set in a cyberpunk universe [repo here](https://github.com/ValeSer/yahtzee) | ReactJS, MongoDB, Mongoose, NodeJS, JWT, CSS, JavaScript, Jest, Cypress
 | Vegilicious |A web app for farmers to post pictures and descriptions of their produce and for users to contact farmers of their intention to buy products [repo here](https://github.com/chingu-voyages/v46-tier3-team-33)  | ReactJS, Typescript, MongoDB, NodeJS, CSS, ExpressJS. |
