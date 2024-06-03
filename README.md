@@ -36,9 +36,18 @@ For the past 5 years, I've pursued courses and immersive experiences:
   <img src="https://img.shields.io/badge/-Cypress-3b3938?style=for-the-badge&logo=cypress&logoColor=faf2ed&labelColor=282828">
   <img src="https://img.shields.io/badge/-Jest-B84D6F?style=for-the-badge&logo=jest&logoColor=B84D6F&labelColor=282828">
   <img src="https://img.shields.io/badge/-RSpec-F05892?style=for-the-badge&logo=ruby&logoColor=F05892&labelColor=282828">
- 
 </p>
 
+<h3 align="center">Projects</h3>
+
+| Name                         | Description | Tech/tools |
+| ---------------------------- | ------------ | ------------------------------------- |
+| My Portfolio | A React application containing some of my projects [link here](https://valeria-serci-portfolio.netlify.app)  | ReactJS, JavaScript, HTML, SCSS |
+| Yahtzee game | An adaptation of the classic dice game set in a cyberpunk universe [repo here](https://github.com/ValeSer/yahtzee) | ReactJS, MongoDB, Mongoose, NodeJS, JWT, CSS, JavaScript, Jest, Cypress
+| Vegilicious |A web app for farmers to post pictures and descriptions of their produce and for users to contact farmers of their intention to buy products [repo here](https://github.com/chingu-voyages/v46-tier3-team-33)  | ReactJS, Typescript, MongoDB, NodeJS, CSS, ExpressJS. |
+| Meteorite-Explorer| I use the Meteorite Landing dataset found on on NASA's Open Data Portal to create an application that allows users to explore meteorite strikes across the globe [repo here](https://github.com/ValeSer/Meteorite-Explorer)| ReactJS, Javascript, NodeJS, Jest, Express, HTML, SCSS |
+
+---
 
 <!--
 Here are some ideas to get you started:
